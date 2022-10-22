@@ -1,15 +1,15 @@
 
-# Hi, I'm Ravi Shankar Yadav 👋
+# Hi, I'm Ravi Shankar Yadav
 
 
-# 🚀 About Me
+#  About Me
 I'm a Machine Learning Engineer.
 
 
-## 🔗 Links
+##  Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/raviiiyadav)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-shankar-yadav-212276184)
-## 🛠 Skills
+##  Skills
 1. Python
 2. Statistics
 3. SQL
