@@ -3,7 +3,7 @@
 
 
 #  About Me
-I'm a Machine Learning Engineer.
+I'm a Full Stack Developer.
 
 
 ##  Links
